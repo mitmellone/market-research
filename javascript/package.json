@@ -1,0 +1,11 @@
+{
+  "name": "mmellone-market-research",
+  "version": "0.1.0",
+  "description": "Collection of personal scripts to help gather, analyze, and display equity market data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell Mellone",
+  "license": "ISC"
+}
